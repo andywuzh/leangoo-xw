@@ -16,6 +16,12 @@
     }
   },
 
+  "sockets": {
+    "tcp": {
+      "connect": "*:*"
+    }
+  },
+
   "permissions": [
     "webview",
     "alwaysOnTopWindows"
